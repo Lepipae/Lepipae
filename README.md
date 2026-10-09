@@ -9,4 +9,4 @@ Actualmente estoy estudiando **Desarrollo de Aplicaciones Multiplataforma (DAM)*
 
 ## 📫 Contacto
 
-Puedes encontrarme aquí, en GitHub.
+Puedes encontrarme aquí, en GitHub o en mi [Linkedin](https://www.linkedin.com/in/andr%C3%A9s-l%C3%B3pez-de-la-v%C3%ADa-540b67330)
